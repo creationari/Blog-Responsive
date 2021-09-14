@@ -1,0 +1,78 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel-maindiv{
+    border:1px;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.travel-maindiv img{
+    width: 100%;
+}
+.travel-maindiv p,.travel-maindiv h5{
+    margin-left: 20px;
+}
+.moviehead{
+    font-size:20px;
+    padding:6px;
+    border-radius:10px;
+    margin-bottom: 15px;
+    width:100%
+    display:inline block;
+}
+.moviehead i{
+    float: right;
+}
+.movie-text span{
+    color:yellow;
+}
+.environment-li{
+    margin-top: 13px;
+}
+.environment-li h4{
+    border-bottom: 1px
+    solid:white;
+    padding: 8px;
+}
+.environment-li img{
+    border-radius: 25px;
+}
+.environment-li p{
+    margin-top: 10px;
+}
+.billgates{
+    line-height:2;
+}
+.book{
+    cursor:pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img-modal{
+    display :inline-block;
+}
+.p-modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align:center;
+}
